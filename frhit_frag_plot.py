@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Kim Lauer (klauer2)
 # Date: 12/08/16 v.4
-# Final
+# Part of Final Project
 #
 # Assumptions:
 # Input file must be FRHIT default output format
