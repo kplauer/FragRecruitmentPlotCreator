@@ -14,6 +14,7 @@ import argparse
 from datetime import datetime
 import matplotlib
 # stackflow answer to error otherwise "TclError..." when run in Dockerfile
+# https://stackoverflow.com/questions/4931376/generating-matplotlib-graphs-without-a-running-x-server
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
